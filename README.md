@@ -1,53 +1,55 @@
-### <h1 align="center">👋 Hola, soy Santiago</h1>
-<h3 align="center">🚀 Desarrollador Frontend | Analista de Datos | Entusiasta de la Automatización</h3>
----
+# Santiago Morandi
 
-### 🌐 Mira mi portfolio
+**Ingeniero Industrial | Integración de sistemas y automatización**
 
-<p align="center">
-  <a href="https://morandisantiago.github.io/Porfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌍 Ver Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Portfolio"/>
-  </a>
-</p>
+Soy Ingeniero Industrial por la Universidad Tecnológica Nacional (Argentina), graduado en abril de 2026. Actualmente trabajo como consultor tecnológico en **ITmind**, con SAP ABAP, OpenText Content Server y OpenProject.
 
----
+Mi objetivo es desarrollarme como **AI Integration Engineer**, combinando integración de sistemas empresariales, automatización e inteligencia artificial aplicada.
 
----
+[LinkedIn](https://www.linkedin.com/in/santiago-morandi1/) · [Correo](mailto:santiago.morandi97@gmail.com) · [Portfolio](https://morandisantiago.github.io/Porfolio/)
 
-### 🛠 Sobre mí
+## Experiencia aplicada
 
-- 🔭 Actualmente trabajando en **proyectos de análisis de datos y desarrollo frontend.**
-- 🌱 Aprendiendo **Firebase, Power BI y automatización con Make.**
-- 👯 Buscando colaborar en **desarrollo web, análisis de datos y optimización de procesos.**
-- 💬 Pregúntame sobre **SQL, Power BI, desarrollo frontend y automatización.**
-- 📫 **Cómo contactarme:** santiirlanda@gmail.com
+- **SAP ABAP:** desarrollo, adaptación y validación de programas, reportes, transacciones y módulos de función.
+- **OpenText ECM:** configuración de formularios, categorías, atributos, workflows y permisos en Content Server, y consultas SQL.
+- **OpenProject:** configuración funcional para proyectos, incidentes y registro de horas; definición de roles y permisos, documentación de procesos y capacitación de usuarios.
 
----
+## Proyectos realizados y pruebas de concepto
 
-### 🚀 Conéctate conmigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/santiago-morandi-736660263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/morandisanti" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+### Sistema de gestión — Cochería Rosato · 2026
 
----
+Desarrollé dos aplicaciones conectadas con Google Sheets y Apps Script: **CRM V2**, para administrar miembros, titulares, tarifas y pagos, y **Sistema de Gestión**, para consultas y reportes. Incluye formularios HTML/JavaScript, validaciones y reglas de edades, vigencias, coberturas y cuotas.
 
-### 🛠 Tecnologías y Herramientas
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+**Estado:** sistema desarrollado para un cliente real. El código y los datos se mantienen privados; la documentación pública y una demo independiente con datos ficticios están pendientes.
 
----
+### Integración de IA con SAP y OpenProject · 2026
+
+Configuré y probé el acceso desde OpenAI Codex a SAP mediante VSP/ADT y a una instancia local de OpenProject mediante MCP. Validé lectura de objetos ABAP y operaciones controladas en SAP; en OpenProject, consultas, creación y modificación de incidentes, asignaciones y registro de horas.
+
+**Estado:** pruebas de concepto en entornos de prueba, con documentación pública pendiente. Utilicé servidores de terceros; mi aporte fue su configuración, los permisos, las pruebas y el análisis de limitaciones.
+
+### Integración de Google Workspace con IA · 2026
+
+Configuré APIs y OAuth 2.0 en Google Cloud para conectar Codex con Google Sheets y Apps Script mediante MCP. Validé accesos a planillas y fuentes de scripts, y trabajé en su sincronización con clasp.
+
+**Estado:** integración configurada y accesos validados; documentación pública pendiente. Las credenciales y los recursos privados quedan fuera del portfolio.
+
+## Repositorios públicos
+
+| Proyecto | Qué contiene |
+|---|---|
+| [Automatización de correos personalizados](https://github.com/MorandiSantiago/Autimatizacion-de-Postulaciones) | Versión publicada en 2025: Apps Script para combinar datos de una hoja, plantillas HTML y un adjunto de Drive en envíos por Gmail. |
+| [Análisis de datos de la NBA](https://github.com/MorandiSantiago/PI) | Proyecto colaborativo de formación con Python, Pandas, carga de datos a Firebase y visualización en Power BI. |
+
+Los repositorios de desarrollo web y ejercicios anteriores documentan mi evolución en programación.
+
+## Tecnologías utilizadas
+
+- **Desarrollo:** SAP ABAP, JavaScript, Google Apps Script, HTML y SQL.
+- **Integraciones:** MCP, APIs REST, OAuth 2.0 y SAP VSP/ADT.
+- **Datos:** Python, Pandas y Power BI.
+- **Plataformas y herramientas:** SAP, OpenText ECM, OpenProject, Google Workspace, Google Cloud, Docker, VS Code y Git/GitHub.
+
+Busco oportunidades junior en integración de sistemas, automatización y soluciones de IA aplicada.
+
+**Contacto:** [santiago.morandi97@gmail.com](mailto:santiago.morandi97@gmail.com)
