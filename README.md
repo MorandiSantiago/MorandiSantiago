@@ -26,8 +26,6 @@ Desarrollé dos aplicaciones conectadas con Google Sheets y Apps Script: **CRM V
 
 Configuré y probé el acceso desde OpenAI Codex a SAP mediante VSP/ADT y a una instancia local de OpenProject mediante MCP. Validé lectura de objetos ABAP y operaciones controladas en SAP; en OpenProject, consultas, creación y modificación de incidentes, asignaciones y registro de horas.
 
-**Estado:** pruebas de concepto en entornos de prueba, con documentación pública pendiente. Utilicé servidores de terceros; mi aporte fue su configuración, los permisos, las pruebas y el análisis de limitaciones.
-
 ### Integración de Google Workspace con IA · 2026
 
 Configuré APIs y OAuth 2.0 en Google Cloud para conectar Codex con Google Sheets y Apps Script mediante MCP. Validé accesos a planillas y fuentes de scripts, y trabajé en su sincronización con clasp.
