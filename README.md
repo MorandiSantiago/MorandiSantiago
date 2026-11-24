@@ -20,7 +20,7 @@ Mi objetivo es desarrollarme como **AI Integration Engineer**, combinando integr
 
 Desarrollé dos aplicaciones conectadas con Google Sheets y Apps Script: **CRM V2**, para administrar miembros, titulares, tarifas y pagos, y **Sistema de Gestión**, para consultas y reportes. Incluye formularios HTML/JavaScript, validaciones y reglas de edades, vigencias, coberturas y cuotas.
 
-**Estado:** sistema desarrollado para un cliente real. El código y los datos se mantienen privados; la documentación pública y una demo independiente con datos ficticios están pendientes.
+**Estado:** sistema desarrollado para un cliente real. El código y los datos del cliente se mantienen privados. La [demo pública e independiente](https://github.com/MorandiSantiago/crm-sistema-gestion-google-workspace) incluye dos plantillas con datos ficticios.
 
 ### Integración de IA con SAP y OpenProject · 2026
 
